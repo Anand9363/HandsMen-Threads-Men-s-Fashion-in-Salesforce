@@ -1,3 +1,5 @@
+Demo Video:(https://drive.google.com/file/d/1wgSoHxcgYsUFTOR1nCwkb2vFxVYIGgRw/view?usp=drive_link)
+
 Developing a premium fashion platform to streamline men’s bespoke tailoring and enhance customer experience through personalized styling and seamless order management.
 
 1. Project Phases
